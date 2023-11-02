@@ -1,4 +1,3 @@
 # helloworld
-just another repository
+Hello everyone iam dilip kumar. This repo is my learning place python automation.
 
-Hello everyone iam dilip kumar.
